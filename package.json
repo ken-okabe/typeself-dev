@@ -1,0 +1,22 @@
+{
+  "name": "self-type-dev",
+  "version": "1.0.0",
+  "description": "self-type development project",
+  "main": "./main_.js",
+  "scripts": {
+    "test": "electron ./"
+  },
+  "keywords": [
+    "esm",
+    "module"
+  ],
+  "author": "Ken Okabe",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chokidar": "*",
+    "electron": "^3.0.0-beta.10",
+    "esm": "*",
+    "typescript": "*"
+  }
+}
